@@ -14,7 +14,7 @@
 ---
 
 ## 🖼️ 데모 이미지
-<img src="./images/demo_1.png" width="600" />
+<img src="IMG_1472_jpeg.rf.7bea4cb10df7148006ef3698631ec1f2.jpg" width="600" />
 
 ---
 
